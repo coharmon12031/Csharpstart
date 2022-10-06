@@ -1,0 +1,13 @@
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\bin\Debug\netcoreapp3.1\RandomNumberGuessingGame.exe
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\bin\Debug\netcoreapp3.1\RandomNumberGuessingGame.deps.json
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\bin\Debug\netcoreapp3.1\RandomNumberGuessingGame.runtimeconfig.json
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\bin\Debug\netcoreapp3.1\RandomNumberGuessingGame.runtimeconfig.dev.json
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\bin\Debug\netcoreapp3.1\RandomNumberGuessingGame.dll
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\bin\Debug\netcoreapp3.1\RandomNumberGuessingGame.pdb
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\obj\Debug\netcoreapp3.1\RandomNumberGuessingGame.csprojAssemblyReference.cache
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\obj\Debug\netcoreapp3.1\RandomNumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\obj\Debug\netcoreapp3.1\RandomNumberGuessingGame.AssemblyInfo.cs
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\obj\Debug\netcoreapp3.1\RandomNumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\obj\Debug\netcoreapp3.1\RandomNumberGuessingGame.dll
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\obj\Debug\netcoreapp3.1\RandomNumberGuessingGame.pdb
+C:\Users\Charmon\source\repos\RandomNumberGuessingGame\obj\Debug\netcoreapp3.1\RandomNumberGuessingGame.genruntimeconfig.cache
